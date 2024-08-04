@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Karim, curious person in solving problems via computational techniques. I am building experience in quantum computing simulations and enjoying it so far! moreover, I enjoy leveraging data in football analytics.
+I am Karim, curious person in solving problems via computational techniques. I am building experience in quantum computing simulations and enjoying it so far! Professionally, I use atomistic simulations to make sense of physical and chemical interactions taking place in the lab. Moreover, I enjoy leveraging data in football analytics.
 
 ## GitHub Stats
 
