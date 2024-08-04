@@ -11,7 +11,7 @@ I am Karim, curious person in solving problems via computational techniques. I a
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimElgammal&theme=dark&langs_count=8&layout=compact" />
 </a>
 
-## Quantum Computing
+<!-- ## Quantum Computing
 I work on open projects in quantum computing simulations, such as being an active participant in quantum computing challenges:
 - in 2023: I participated together with an awesome team in the "Deloitte's Quantum Climate Challenge 2023" and won the 3rd position
 [view my Deloitte Quantum Computing Certificate](https://github.com/KarimElgammal/certificates/blob/e7d758d939eee008220b4414217650bc7f0b860a/Quantum%20Computing/DELOITTE_CERTIFICATE_Karim%20Elgammal.pdf)
@@ -44,7 +44,7 @@ Currently, I am working as atomistic simulation engineer who leverages DFT to so
 - [Data Science & Machine Learning](https://github.com/KarimElgammal/certificates/tree/master/Data%20Science%20and%20Machine%20Learning)
 - [Accelerated Computing](https://github.com/KarimElgammal/certificates/tree/master/Accelerated%20Computing)
 - [Material Informatics](https://github.com/KarimElgammal/certificates/tree/master/Material%20Informatics)
-- [Digital Transformation](https://github.com/KarimElgammal/certificates/tree/master/Digital%20Transformation)
+- [Digital Transformation](https://github.com/KarimElgammal/certificates/tree/master/Digital%20Transformation) -->
 
 <!--
 - 🤔 I’m looking for help with ...
